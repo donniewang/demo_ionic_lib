@@ -1,5 +1,21 @@
 {
-    "name":"demo_ionic_lib",
-    "version":"1.0.6",
-    "main":"src/index.js"
+    "name": "demo_ionic_lib",
+    "version": "1.0.6",
+    "main": "index.js",
+    "scripts": {
+    },
+    "peerDependencies": {
+        "@angular/common": "5.0.0",
+        "@angular/compiler": "5.0.0",
+        "@angular/compiler-cli": "5.0.0",
+        "@angular/core": "5.0.0",
+        "@angular/forms": "5.0.0",
+        "@angular/http": "5.0.0",
+        "@angular/platform-browser": "5.0.0",
+        "@angular/platform-browser-dynamic": "5.0.0",
+        "ionic-angular": "3.9.2",
+        "rxjs": "5.5.2",
+        "zone.js": "^0.8.18",
+        "typescript": "~2.4.2"
+    }
 }
